@@ -1,0 +1,4 @@
+const persona = {
+    nombre:[],
+    apellido:[]
+}
