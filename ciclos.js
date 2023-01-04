@@ -3,6 +3,6 @@ let ciclos //definicion de ciclos
 function funcionesCiclos(params) {
     let numeros = [];
     for (let i = 0; i < 10; i++) {
-        console.log(i)
+        console.log(i);
     }
 }
